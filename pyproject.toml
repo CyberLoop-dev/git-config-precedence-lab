@@ -1,0 +1,6 @@
+[project]
+name = "git-config-precedence-lab"
+version = "1.0.0"
+description = "Explain precedence across supplied Git-style config files"
+requires-python = ">=3.10"
+dependencies = []
